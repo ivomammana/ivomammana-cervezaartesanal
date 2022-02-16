@@ -1,0 +1,5 @@
+node_modules/
+
+git remote add origin https://github.com/ivomammana/ivomammana-cervezaartesanal.git
+git branch -M master
+git push -u origin master
